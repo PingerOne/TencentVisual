@@ -1,1 +1,1 @@
-include ':visual'
+include ':visual', ':app'

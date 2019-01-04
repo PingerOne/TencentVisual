@@ -17,6 +17,6 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation files('lib/libthrift-0.10.0.jar')
-    implementation files('lib/track-sdk_v3.4.0.jar')
+    api files('libs/libthrift-0.10.0.jar')
+    api files('libs/track-sdk_v3.4.0.jar')
 }
