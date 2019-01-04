@@ -6,6 +6,6 @@
 * 直接添加依赖即可：
 
         dependencies {
-             implementation 'com.github.PingerOne:TencentVisual:1.0.0'
+             implementation 'com.github.PingerOne:TencentVisual:1.0.1'
         }
 
